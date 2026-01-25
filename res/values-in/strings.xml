@@ -1,16 +1,16 @@
 <resources>
     <string name="Players">"Pemain"</string>
-    <string name="Control_">"Kontrol:"</string>
-    <string name="CLOSE">"TUTUP"</string>
-    <string name="Stick_Size_">"Ukuran tongkat:"</string>
-    <string name="Stick_Margin_">"Tepi tongkat:"</string>
-    <string name="Button_Size_">"Ukuran tombol:"</string>
-    <string name="Button_Margin_">"Tepi Tombol:"</string>
+    <string name="_Control_">":Kontrol:"</string>
+    <string name="_CLOSE_">"TUTUP"</string>
+    <string name="_Stick_Size_">":Ukuran Tongkat:"</string>
+    <string name="_Stick_Margin_">":Tepi Tongkat:"</string>
+    <string name="_Button_Size_">":Ukuran Tombol:"</string>
+    <string name="_Button_Margin_">":Tepi Tombol:"</string>
     <string name="Buttons_">"Tombol:"</string>
-    <string name="DEFAULTS">"TAMPILAN AWAL"</string>
+    <string name="Defaults">"Tampilan Awal"</string>
     <string name="WEEKLY">"MINGGUAN"</string>
     <string name="DAILY">"HARIAN"</string>
-    <string name="Server_">"Server:"</string>
+    <string name="_Server_">":Server:"</string>
     <string name="Game_Mode_">"Mode Permainan:"</string>
     <string name="Show_Names">"Tampilkan Nama"</string>
     <string name="Show_Avatars">"Tampilkan Skin"</string>
@@ -20,14 +20,14 @@
     <string name="Avatar_">"Skins:"</string>
     <string name="Name_">"Nama:"</string>
 
-    <string name="Loading___">"Memuat …"</string>
-    <string name="Connecting___">"Menghubungkan …"</string>
+    <string name="Loading__">"Memuat..."</string>
+    <string name="Connecting__">"Menghubungkan..."</string>
 
     <string name="Are_You_Sure_">"Apakah Anda yakin?"</string>
-    <string name="Yes">"Ya"</string>
-    <string name="No">"Tidak"</string>
+    <string name="YES">"YA"</string>
+    <string name="NO">"TIDAK"</string>
     <string name="WAIT">"TUNGGU…"</string>
-    <string name="Must_Specify_Name_">"Harus menentukan nama."</string>
+    <string name="Must_Specify_Name_">"Harus Menentukan Nama."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Peringkat dapat berubah ketika menemukan kelompok."</string>
 
