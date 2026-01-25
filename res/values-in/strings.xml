@@ -104,7 +104,7 @@
     <string name="This_player_is_a_bot">"Pemain ini adalah bot."</string>
     <string name="This_player_is_not_signed_in">"Pemain ini tidak login."</string>
     <string name="Online">"Daring"</string>
-    <string name="Unknown">"Tidak dikenal"</string>
+    <string name="Unknown">"Tidak di kenal"</string>
     <string name="Offline">"Luring"</string>
     <string name="Achievement_Earned">"Perolehan Prestasi"</string>
     <string name="REFRESH">"MENYEGARKAN"</string>
@@ -1040,7 +1040,7 @@
     <string name="VALENTINES_DAY">"HARI VALENTIN"</string>
     <string name="Giveaways_">Giveaways!</string>
     <string name="Max_XP_Chain_">Max XP Diperoleh:</string>
-    <string name="POSITION_CANCEL_BUTTON">POSISI TOMBOL BATAL POWERUP</string>
+    <string name="POSITION_CANCEL_BUTTON">POSISI TOMBOL BATAL POWERUPS</string>
     <string name="INVISIBILITY">LIMUNAN</string>
     <string name="Set_Skin">Atur Skin</string>
     <string name="Primary">Utama</string>
