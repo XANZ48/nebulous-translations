@@ -894,7 +894,7 @@
     <string name="Pet_1">Pet 1</string>
     <string name="Pet_2">Pet 2</string>
     <string name="Second_Pet">Anda dapat menggunakan 2 Pet sekaligus!</string>
-    <string name="This_item_requires">Item ini memerlukan </string>
+    <string name="This_item_requires">Item ini memerlukan</string>
     <string name="not_enough_plasma">Plasma tidak cukup.</string>
     <string name="MARK_UNREAD">TANDAI BELUM DIBACA</string>
     <string name="ROYALE_DUO">ROYALE DUO</string>
@@ -914,7 +914,7 @@
     <string name="Mass_Boost">Massa Tambahan</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Massa Tambahan tidak berfungsi di arena, turnamen, atau klan perang!</string>
     <string name="ArenaDescriptionPure">TIDAK BISA menggunakan autoklik atau ultraklik. Anda hanya dapat satu nyawa. Pemenang akan mendapatkan %s plasma.</string>
-    <string name="_1v1_Pure">1v1 Murni</string>
+    <string name="_1v1_Pure"> 1v1 Murni</string>
     <string name="Allow_Ultraclick">Membolehkan Ultraklik</string>
     <string name="Allow_Mass_Boost">Membolehkan Massa Tambahan</string>
     <string name="Challenges_Won_">Tantangan Dimenangkan:</string>
@@ -932,12 +932,12 @@
     <string name="Color">Warna</string>
     <string name="RECENT_PLAYERS">PEMAIN TERBARU</string>
     <string name="POSITION_CONTROL_STICK">"POSISI KONTROL STIK"</string>
-    <string name="POSITION_SPLIT_BUTTON">POSISI TOMBOL SPLIT </string>
+    <string name="POSITION_SPLIT_BUTTON">POSISI TOMBOL SPLIT</string>
     <string name="POSITION_EJECT_BUTTON">POSISI TOMBOL EJECT</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">POSITION TOMBOL SAKELAR EJECT</string>
     <string name="WIFI">WIFI</string>
     <string name="JOIN_IP">GABUNG IP</string>
-    <string name="Specify_Host_IP">Tentukan IP Host </string>
+    <string name="Specify_Host_IP">Tentukan IP Host</string>
     <string name="ADVANCED_SETUP">KONFIGURASI LANJUTAN</string>
     <string name="WORLD_CUP_EVENT___">EVENT PIALA DUNIA!!!</string>
     <string name="world_cup_event_description">XP dan Plasma Ganda dalam Mode Sepak Bola hingga piala dunia berakhir!</string>
@@ -987,7 +987,7 @@
     <string name="pack_info">Setelah Anda membeli paket skin ini, skin eksklusif Anda akan muncul di bagian atas menu pilihan skin.</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">PAKET EKSKLUSIF : Skin, Pet, Topi dan Lainnya!</string>
     <string name="BUY_NOW_">BELI SEKARANG!</string>
-    <string name="already_purchased">Anda telah memiliki paket skin ini.</string>
+    <string name="already_purchased">Anda telah memiliki paket skin ini</string>
     <string name="Halo_Animations">Animasi Lingkaran Cahaya</string>
     <string name="Trick_Notifications">Notifikasi Trick</string>
     <string name="Channel">Saluran</string>
@@ -1007,7 +1007,7 @@
     <string name="Rainbow">Pelangi</string>
     <string name="Horizontal">Horizontal</string>
     <string name="Vertical">Vertikal</string>
-    <string name="GROUP">GRUP </string>
+    <string name="GROUP">GRUP</string>
     <string name="LEAVE">KELUAR</string>
     <string name="Group">Grup</string>
     <string name="Not_in_a_group_">Tidak dalam grup.</string>
@@ -1022,7 +1022,7 @@
     <string name="Reason">Alasan</string>
     <string name="PUBLIC">PUBLIK</string>
     <string name="PRIVATE">PRIBADI</string>
-    <string name="Joined">Bergabung </string>
+    <string name="Joined">Bergabung</string>
     <string name="Requests">Permintaan</string>
     <string name="Invites">Undangan</string>
     <string name="Show_Spectator_Count">Aktifkan Jumlah Penonton</string>
@@ -1145,8 +1145,8 @@
     <string name="You_Have_Mail_">Anda menerima surat dari %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Permintaan Anda Untuk Bergabung dengan Klan %s Telah Ditinjau!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
-    <string name="Sold_Community_Skins_">"Skin Komunitas Terjual: "</string>
-    <string name="Estimated_Earnings_">"Perkiraan pendapatan: "</string>
+    <string name="Sold_Community_Skins_">"Skin Komunitas Terjual:"</string>
+    <string name="Estimated_Earnings_">"Perkiraan pendapatan:"</string>
     <string name="South_Africa">Afrika Selatan </string>
     <string name="SPLIT_">SPLIT:</string>
     <string name="WALLS">DINDING</string>
@@ -1191,7 +1191,7 @@ Perintah:
     <string name="delete_prompt">Apakah Anda yakin ingin menghapus akun Anda? Ini PERMANEN dan TIDAK DAPAT DIBATALKAN!</string>
     <string name="Type">Ketik</string>
     <string name="Complete_campaign_mission_">Selesaikan kampanye misi</string>
-    <string name="Specify_Reason_">Alasan spesifik:</string>
+    <string name="Specify_Reason_">Alasan Spesifik:</string>
     <string name="FREE_FOR_ALL">GRATIS UNTUK SEMUA</string>
     <string name="SPECIAL">SPESIAL</string>
     <string name="FREE">GRATIS</string>
@@ -1215,9 +1215,9 @@ Perintah:
     <string name="no_response">Tidak bisa bergabung ke server. Mohon cek koneksi internet Anda.</string>
     <string name="RAMADAN">RAMADHAN</string>
     <string name="SUDDEN_ATTACK">SERANGAN MENDADAK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolusi</string>
+    <string name="_2x_skin_resolution"> 2x Skin Resolusi</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">Anda sudah berteman. </string>
+    <string name="You_are_already_friends_">Anda sudah berteman.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Akun harus berumur 1 hari untuk mengirim surat. </string>
     <string name="Translator">Penerjemah</string>
     <string name="SUCCESS">SUKSES</string>
