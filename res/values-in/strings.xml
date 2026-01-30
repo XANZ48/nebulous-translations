@@ -808,7 +808,7 @@
     <string name="CLAN_HOUSE">RUANG KLAN</string>
     <string name="ROOM">RUANG</string>
     <string name="EXPERIMENTAL">MODE PERCOBAAN</string>
-    <string name="members">Anggota</string>
+    <string name="Members">Anggota</string>
     <string name="Delete_ALL_Messages_">Hapus Semua Pesan!</string>
     <string name="SAVE_PROFILE">SIMPAN PROFIL</string>
     <string name="Move">Pindah</string>
@@ -850,7 +850,7 @@
     <string name="BLOB">GUMPALAN</string>
     <string name="Clan_Pet_Uploads">Klan Skin Pet Upload</string>
     <string name="YT">YT</string>
-    <string name="FREE_TODAY">GRATIS HARI INI!</string>
+    <string name="FREE_TODAY_">GRATIS HARI INI!</string>
     <string name="Cannot_cancel_this_skin_yet_">Belum bisa membatalkan skin ini.</string>
     <string name="SPLIT_16X">SPLIT 16x</string>
     <string name="SET_PUBLIC_DESCRIPTION">ATUR DESKRIPSI PUBLIK</string>
@@ -861,7 +861,7 @@
     <string name="HAPPY_BIRTHDAY_">SELAMAT ULANG TAHUN NEBULOUS!</string>
     <string name="Years">Tahun</string>
     <string name="Friend_Added_">TEMAN DITAMBAHKAN!</string>
-    <string name="_in_a_16x_Split_Game">dalam mode 16x Split  </string>
+    <string name="_in_a_16x_Split_Game">dalam mode 16x Split</string>
     <string name="Rules">PERATURAN</string>
     <string name="Blob_Chat_Bubbles">Obrolan Gelembung Gumpalan</string>
     <string name="CHRISTMAS_ADVENT_SKINS">SKIN KEDATANGAN NATAL</string>
@@ -875,8 +875,8 @@
     <string name="Mission">Misi</string>
     <string name="Kill_All_Bots">Bunuh Semua Bot</string>
     <string name="Survive">Bertahan</string>
-    <string name="Mission_d_Complete">Misi %d Berhasil!</string>
-    <string name="Mission_d_Failed">Misi %d Gagal!</string>
+    <string name="Mission_d_Complete_">Misi %d Berhasil!</string>
+    <string name="Mission_d_Failed_">Misi %d Gagal!</string>
     <string name="Next_Mission">Misi Berikutnya</string>
     <string name="Objective">Objektif</string>
     <string name="GAME">PERMAINAN</string>
@@ -894,7 +894,7 @@
     <string name="Pet_1">Pet 1</string>
     <string name="Pet_2">Pet 2</string>
     <string name="Second_Pet">Anda dapat menggunakan 2 Pet sekaligus!</string>
-    <string name="This_item_requires">Item ini memerlukan </string>
+    <string name="This_item_requires">Item ini memerlukan</string>
     <string name="not_enough_plasma">Plasma tidak cukup.</string>
     <string name="MARK_UNREAD">TANDAI BELUM DIBACA</string>
     <string name="ROYALE_DUO">ROYALE DUO</string>
@@ -934,7 +934,7 @@
     <string name="POSITION_CONTROL_STICK">"POSISI KONTROL STIK"</string>
     <string name="POSITION_SPLIT_BUTTON">POSISI TOMBOL SPLIT </string>
     <string name="POSITION_EJECT_BUTTON">POSISI TOMBOL EJECT</string>
-    <string name="POSITION_EJECT_TOGGLE_BUTTON">POSITION TOMBOL SAKELAR EJECT</string>
+    <string name="POSITION_EJECT_TOGGLE_BUTTON">POSISI TOMBOL SAKELAR EJECT</string>
     <string name="WIFI">WIFI</string>
     <string name="JOIN_IP">GABUNG IP</string>
     <string name="Specify_Host_IP">Tentukan IP Host </string>
@@ -958,7 +958,7 @@
     <string name="VIEW_UPLOADER">LIHAT PENGUNGGAH</string>
     <string name="POPULAR">POPULER</string>
     <string name="NEW">BARU</string>
-    <string name="Manage_Configurations">Kelola Konfigurasi </string>
+    <string name="Manage_Configurations"> Kelola Konfigurasi </string>
     <string name="Leave_blank_for_all_uploaders_">Biarkan kosong untuk semua pengunggah.</string>
     <string name="More___">Lainnya&#x2026;</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">Tidak bisa digunakan pada mode FFA Classic.</string>
@@ -1007,7 +1007,7 @@
     <string name="Rainbow">Pelangi</string>
     <string name="Horizontal">Horizontal</string>
     <string name="Vertical">Vertikal</string>
-    <string name="GROUP">GRUP </string>
+    <string name="GROUP">GRUP</string>
     <string name="LEAVE">KELUAR</string>
     <string name="Group">Grup</string>
     <string name="Not_in_a_group_">Tidak dalam grup.</string>
